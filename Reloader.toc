@@ -1,0 +1,9 @@
+## Interface: 100002
+## Title: Reloader
+## Notes: Reload the UI with one button click
+## Version 1.0
+## Author: Durmage
+## SavedVariables: ReloaderDB
+## OptionalDependencies: Ace3, LibDBIcon, LibDataBroker-1.1
+
+Reloader.lua

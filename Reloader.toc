@@ -1,7 +1,7 @@
-## Interface: 100002
+## Interface: 100100
 ## Title: Reloader
 ## Notes: Reload the UI with one button click
-## Version 1.0
+## Version 1.0.1
 ## Author: Durmage
 ## SavedVariables: ReloaderDB
 ## OptionalDependencies: Ace3, LibDBIcon, LibDataBroker-1.1

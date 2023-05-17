@@ -1,4 +1,4 @@
-# Reloader V 1.0
+# Reloader V 1.0.1
 
 A very simple addon for WoW that just adds a button to the minimap that reloads the UI in one click. 
 

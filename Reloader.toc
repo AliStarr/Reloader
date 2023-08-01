@@ -4,6 +4,6 @@
 ## Version 1.0.1
 ## Author: Durmage
 ## SavedVariables: ReloaderDB
-## OptionalDependencies: Ace3, LibDBIcon, LibDataBroker-1.1
+## OptionalDependencies: Ace3, LibDBIcon-1.0
 
 Reloader.lua
